@@ -73,8 +73,9 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 ### 🔹 Automação Web
 - Page Object Model  
 - Execução paralela e feedback rápido  
-- Integração contínua em CI  
-
+- Integração contínua em CI
+- 
+🔹Selenium
 🔗 [link_do_repositório](https://github.com/LuanaGFSantos/qa-web-selenium-java)
 
 ---
