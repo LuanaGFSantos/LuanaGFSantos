@@ -75,7 +75,7 @@ Os projetos abaixo refletem minha atuação como **SDET**, tratando automação 
 - Execução paralela e feedback rápido  
 - Integração contínua em CI  
 
-🔗 link_do_repositório
+🔗 [link_do_repositório](https://github.com/LuanaGFSantos/qa-web-selenium-java)
 
 ---
 
